@@ -60,3 +60,5 @@ python list.py
  - Executar games.py
 - Para coletar os detalhes de cada jogo (como nome, imagem de capa e link Magnet), execute o script games.py. Esse script lê as URLs do arquivo game_urls.txt, acessa cada uma delas e salva as informações coletadas no arquivo lista.json.
 - Execute o seguinte comando:
+```bash
+python list.py
