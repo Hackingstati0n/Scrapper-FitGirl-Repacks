@@ -49,14 +49,14 @@ Esse script coleta detalhes de cada jogo listado no arquivo `game_urls.txt`, com
 
 Para começar a coletar as URLs dos jogos, execute o script `list.py`. Esse script navega pelas páginas do site **FitGirl Repacks** e salva as URLs dos jogos no arquivo `game_urls.txt`.
 
-Execute o seguinte comando:
-
+## Execute o seguinte comando:
 ```bash
 python list.py
+```
+
 
 ### Após a execução, as URLs dos jogos estarão disponíveis no arquivo game_urls.txt.
 
-Executar games.py
-Para coletar os detalhes de cada jogo (como nome, imagem de capa e link Magnet), execute o script games.py. Esse script lê as URLs do arquivo game_urls.txt, acessa cada uma delas e salva as informações coletadas no arquivo lista.json.
-
-Execute o seguinte comando:
+ - Executar games.py
+- Para coletar os detalhes de cada jogo (como nome, imagem de capa e link Magnet), execute o script games.py. Esse script lê as URLs do arquivo game_urls.txt, acessa cada uma delas e salva as informações coletadas no arquivo lista.json.
+- Execute o seguinte comando:
