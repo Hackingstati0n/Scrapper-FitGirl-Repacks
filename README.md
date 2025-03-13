@@ -12,7 +12,7 @@ Antes de rodar os scripts, é necessário garantir que você tenha os seguintes 
     ```bash
     pip install selenium
     ```
-- **ChromeDriver**: O ChromeDriver é necessário para controlar o navegador Chrome (ou Brave) via Selenium. Baixe a versão compatível com a sua versão do navegador e coloque o arquivo na mesma pasta do script ou especifique o caminho no código.
+- **ChromeDriver**: O [ChromeDriver](https://googlechromelabs.github.io/chrome-for-testing/) é necessário para controlar o navegador Chrome (ou Brave) via Selenium. Baixe a versão compatível com a sua versão do navegador e coloque o arquivo na mesma pasta do script ou especifique o caminho no código.
 - **Brave Browser**: Caso queira usar o navegador Brave, certifique-se de tê-lo instalado no seu sistema. Você pode modificar o código para usar o Google Chrome também.
 
 ## Funcionalidade dos Scripts
