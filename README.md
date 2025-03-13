@@ -1,4 +1,5 @@
 # FitGirl Repacks Scraper
+![image](https://github.com/user-attachments/assets/23f7c905-7973-4483-9da3-80783c5aecd0)
 
 Este repositório contém dois scripts Python para coleta de informações de jogos do site **FitGirl Repacks**. O primeiro script (`list.py`) coleta URLs de jogos e as salva em um arquivo de texto, enquanto o segundo script (`games.py`) coleta detalhes de cada jogo listado, como nome, imagem de capa e link Magnet, salvando-os em um arquivo JSON.
 
